@@ -1,0 +1,3 @@
+[submodule "S3-Image-Gallery"]
+	path = S3-Image-Gallery
+	url = git@github.com:LearnAWS-io/S3-Image-Gallery.git
